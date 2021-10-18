@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.exe
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.deps.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.runtimeconfig.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.runtimeconfig.dev.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.AssemblyInfo.cs
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.genruntimeconfig.cache

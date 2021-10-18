@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec6\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.exe
+C:\dev\softuni c#\lec6\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.deps.json
+C:\dev\softuni c#\lec6\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.runtimeconfig.json
+C:\dev\softuni c#\lec6\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.runtimeconfig.dev.json
+C:\dev\softuni c#\lec6\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.dll
+C:\dev\softuni c#\lec6\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.pdb
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.AssemblyInfo.cs
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.dll
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.pdb
+C:\dev\softuni c#\lec6\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.exe
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.deps.json
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.runtimeconfig.json
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.runtimeconfig.dev.json
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.dll
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.pdb
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.AssemblyInfo.cs
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.dll
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.pdb
+C:\Users\peter\source\repos\exam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.genruntimeconfig.cache

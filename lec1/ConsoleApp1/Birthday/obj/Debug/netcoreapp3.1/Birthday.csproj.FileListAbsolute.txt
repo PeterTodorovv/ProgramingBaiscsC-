@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\bin\Debug\netcoreapp3.1\Birthday.exe
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\bin\Debug\netcoreapp3.1\Birthday.deps.json
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\bin\Debug\netcoreapp3.1\Birthday.runtimeconfig.json
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\bin\Debug\netcoreapp3.1\Birthday.runtimeconfig.dev.json
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\bin\Debug\netcoreapp3.1\Birthday.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\bin\Debug\netcoreapp3.1\Birthday.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\obj\Debug\netcoreapp3.1\Birthday.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\obj\Debug\netcoreapp3.1\Birthday.AssemblyInfo.cs
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\obj\Debug\netcoreapp3.1\Birthday.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\obj\Debug\netcoreapp3.1\Birthday.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\obj\Debug\netcoreapp3.1\Birthday.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\Birthday\obj\Debug\netcoreapp3.1\Birthday.genruntimeconfig.cache

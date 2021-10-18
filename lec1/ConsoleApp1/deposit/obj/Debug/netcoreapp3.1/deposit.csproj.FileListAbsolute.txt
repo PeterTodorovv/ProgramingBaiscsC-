@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\bin\Debug\netcoreapp3.1\deposit.exe
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\bin\Debug\netcoreapp3.1\deposit.deps.json
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\bin\Debug\netcoreapp3.1\deposit.runtimeconfig.json
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\bin\Debug\netcoreapp3.1\deposit.runtimeconfig.dev.json
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\bin\Debug\netcoreapp3.1\deposit.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\bin\Debug\netcoreapp3.1\deposit.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.AssemblyInfo.cs
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\deposit\obj\Debug\netcoreapp3.1\deposit.genruntimeconfig.cache

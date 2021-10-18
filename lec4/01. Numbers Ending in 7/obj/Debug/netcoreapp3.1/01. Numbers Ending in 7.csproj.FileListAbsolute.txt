@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.exe
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.deps.json
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.json
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+C:\dev\softuni c#\lec4\01. Numbers Ending in 7\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.genruntimeconfig.cache

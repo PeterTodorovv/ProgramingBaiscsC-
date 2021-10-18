@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec4\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\dev\softuni c#\lec4\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\dev\softuni c#\lec4\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\dev\softuni c#\lec4\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\dev\softuni c#\lec4\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\dev\softuni c#\lec4\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\dev\softuni c#\lec4\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec4\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\dev\softuni c#\lec4\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec4\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\dev\softuni c#\lec4\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\dev\softuni c#\lec4\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

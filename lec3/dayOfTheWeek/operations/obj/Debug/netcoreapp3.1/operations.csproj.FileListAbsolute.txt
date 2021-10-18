@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\bin\Debug\netcoreapp3.1\operations.exe
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\bin\Debug\netcoreapp3.1\operations.deps.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\bin\Debug\netcoreapp3.1\operations.runtimeconfig.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\bin\Debug\netcoreapp3.1\operations.runtimeconfig.dev.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\bin\Debug\netcoreapp3.1\operations.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\bin\Debug\netcoreapp3.1\operations.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.AssemblyInfo.cs
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\operations\obj\Debug\netcoreapp3.1\operations.genruntimeconfig.cache

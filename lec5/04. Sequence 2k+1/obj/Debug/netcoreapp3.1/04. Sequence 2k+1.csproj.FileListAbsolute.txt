@@ -1,0 +1,12 @@
+C:\dev\softuni c#\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.exe
+C:\dev\softuni c#\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.deps.json
+C:\dev\softuni c#\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.json
+C:\dev\softuni c#\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.runtimeconfig.dev.json
+C:\dev\softuni c#\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\dev\softuni c#\04. Sequence 2k+1\bin\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\dev\softuni c#\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\dev\softuni c#\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.AssemblyInfo.cs
+C:\dev\softuni c#\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.dll
+C:\dev\softuni c#\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.pdb
+C:\dev\softuni c#\04. Sequence 2k+1\obj\Debug\netcoreapp3.1\04. Sequence 2k+1.genruntimeconfig.cache

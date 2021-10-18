@@ -1,0 +1,12 @@
+C:\dev\softuni c#\08. Graduation pt.2\bin\Debug\netcoreapp3.1\08. Graduation pt.2.exe
+C:\dev\softuni c#\08. Graduation pt.2\bin\Debug\netcoreapp3.1\08. Graduation pt.2.deps.json
+C:\dev\softuni c#\08. Graduation pt.2\bin\Debug\netcoreapp3.1\08. Graduation pt.2.runtimeconfig.json
+C:\dev\softuni c#\08. Graduation pt.2\bin\Debug\netcoreapp3.1\08. Graduation pt.2.runtimeconfig.dev.json
+C:\dev\softuni c#\08. Graduation pt.2\bin\Debug\netcoreapp3.1\08. Graduation pt.2.dll
+C:\dev\softuni c#\08. Graduation pt.2\bin\Debug\netcoreapp3.1\08. Graduation pt.2.pdb
+C:\dev\softuni c#\08. Graduation pt.2\obj\Debug\netcoreapp3.1\08. Graduation pt.2.AssemblyInfoInputs.cache
+C:\dev\softuni c#\08. Graduation pt.2\obj\Debug\netcoreapp3.1\08. Graduation pt.2.AssemblyInfo.cs
+C:\dev\softuni c#\08. Graduation pt.2\obj\Debug\netcoreapp3.1\08. Graduation pt.2.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\08. Graduation pt.2\obj\Debug\netcoreapp3.1\08. Graduation pt.2.dll
+C:\dev\softuni c#\08. Graduation pt.2\obj\Debug\netcoreapp3.1\08. Graduation pt.2.pdb
+C:\dev\softuni c#\08. Graduation pt.2\obj\Debug\netcoreapp3.1\08. Graduation pt.2.genruntimeconfig.cache

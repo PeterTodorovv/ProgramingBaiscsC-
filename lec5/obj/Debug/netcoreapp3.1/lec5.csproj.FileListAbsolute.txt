@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec5\bin\Debug\netcoreapp3.1\lec5.exe
+C:\dev\softuni c#\lec5\bin\Debug\netcoreapp3.1\lec5.deps.json
+C:\dev\softuni c#\lec5\bin\Debug\netcoreapp3.1\lec5.runtimeconfig.json
+C:\dev\softuni c#\lec5\bin\Debug\netcoreapp3.1\lec5.runtimeconfig.dev.json
+C:\dev\softuni c#\lec5\bin\Debug\netcoreapp3.1\lec5.dll
+C:\dev\softuni c#\lec5\bin\Debug\netcoreapp3.1\lec5.pdb
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.AssemblyInfo.cs
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.dll
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.pdb
+C:\dev\softuni c#\lec5\obj\Debug\netcoreapp3.1\lec5.genruntimeconfig.cache

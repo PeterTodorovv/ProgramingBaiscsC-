@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\bin\Debug\netcoreapp3.1\RToG.exe
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\bin\Debug\netcoreapp3.1\RToG.deps.json
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\bin\Debug\netcoreapp3.1\RToG.runtimeconfig.json
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\bin\Debug\netcoreapp3.1\RToG.runtimeconfig.dev.json
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\bin\Debug\netcoreapp3.1\RToG.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\bin\Debug\netcoreapp3.1\RToG.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.AssemblyInfo.cs
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\RToG\obj\Debug\netcoreapp3.1\RToG.genruntimeconfig.cache

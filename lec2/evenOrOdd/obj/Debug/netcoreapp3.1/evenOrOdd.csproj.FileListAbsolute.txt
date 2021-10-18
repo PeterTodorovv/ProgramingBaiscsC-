@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec2\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.exe
+C:\dev\softuni c#\lec2\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.deps.json
+C:\dev\softuni c#\lec2\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.runtimeconfig.json
+C:\dev\softuni c#\lec2\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.runtimeconfig.dev.json
+C:\dev\softuni c#\lec2\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.dll
+C:\dev\softuni c#\lec2\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.pdb
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.AssemblyInfo.cs
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.dll
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.pdb
+C:\dev\softuni c#\lec2\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.genruntimeconfig.cache

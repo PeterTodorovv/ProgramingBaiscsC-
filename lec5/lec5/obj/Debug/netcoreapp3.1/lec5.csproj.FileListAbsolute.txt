@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.AssemblyInfo.cs
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\lec5\lec5\bin\Debug\netcoreapp3.1\lec5.exe
+C:\Users\peter\source\repos\lec5\lec5\bin\Debug\netcoreapp3.1\lec5.deps.json
+C:\Users\peter\source\repos\lec5\lec5\bin\Debug\netcoreapp3.1\lec5.runtimeconfig.json
+C:\Users\peter\source\repos\lec5\lec5\bin\Debug\netcoreapp3.1\lec5.runtimeconfig.dev.json
+C:\Users\peter\source\repos\lec5\lec5\bin\Debug\netcoreapp3.1\lec5.dll
+C:\Users\peter\source\repos\lec5\lec5\bin\Debug\netcoreapp3.1\lec5.pdb
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.dll
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.pdb
+C:\Users\peter\source\repos\lec5\lec5\obj\Debug\netcoreapp3.1\lec5.genruntimeconfig.cache

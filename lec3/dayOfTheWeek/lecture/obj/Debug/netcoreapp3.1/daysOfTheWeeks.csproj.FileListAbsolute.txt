@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\bin\Debug\netcoreapp3.1\daysOfTheWeeks.exe
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\bin\Debug\netcoreapp3.1\daysOfTheWeeks.deps.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\bin\Debug\netcoreapp3.1\daysOfTheWeeks.runtimeconfig.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\bin\Debug\netcoreapp3.1\daysOfTheWeeks.runtimeconfig.dev.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\bin\Debug\netcoreapp3.1\daysOfTheWeeks.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\bin\Debug\netcoreapp3.1\daysOfTheWeeks.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.AssemblyInfo.cs
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\lecture\obj\Debug\netcoreapp3.1\daysOfTheWeeks.genruntimeconfig.cache

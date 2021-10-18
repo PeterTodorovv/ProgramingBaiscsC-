@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\bin\Debug\netcoreapp3.1\invalidNumber.exe
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\bin\Debug\netcoreapp3.1\invalidNumber.deps.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\bin\Debug\netcoreapp3.1\invalidNumber.runtimeconfig.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\bin\Debug\netcoreapp3.1\invalidNumber.runtimeconfig.dev.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\bin\Debug\netcoreapp3.1\invalidNumber.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\bin\Debug\netcoreapp3.1\invalidNumber.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.AssemblyInfo.cs
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.genruntimeconfig.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\invalidNumber\obj\Debug\netcoreapp3.1\invalidNumber.csproj.AssemblyReference.cache

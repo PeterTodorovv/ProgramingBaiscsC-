@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec2\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec2\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.AssemblyInfo.cs
+C:\dev\softuni c#\lec2\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec2\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.exe
+C:\dev\softuni c#\lec2\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.deps.json
+C:\dev\softuni c#\lec2\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.runtimeconfig.json
+C:\dev\softuni c#\lec2\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.runtimeconfig.dev.json
+C:\dev\softuni c#\lec2\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.dll
+C:\dev\softuni c#\lec2\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.pdb
+C:\dev\softuni c#\lec2\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.dll
+C:\dev\softuni c#\lec2\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.pdb
+C:\dev\softuni c#\lec2\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.genruntimeconfig.cache

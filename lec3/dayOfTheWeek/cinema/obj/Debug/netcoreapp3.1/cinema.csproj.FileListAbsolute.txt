@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\bin\Debug\netcoreapp3.1\cinema.exe
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\bin\Debug\netcoreapp3.1\cinema.deps.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\bin\Debug\netcoreapp3.1\cinema.runtimeconfig.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\bin\Debug\netcoreapp3.1\cinema.runtimeconfig.dev.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\bin\Debug\netcoreapp3.1\cinema.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\bin\Debug\netcoreapp3.1\cinema.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.AssemblyInfo.cs
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\cinema\obj\Debug\netcoreapp3.1\cinema.genruntimeconfig.cache

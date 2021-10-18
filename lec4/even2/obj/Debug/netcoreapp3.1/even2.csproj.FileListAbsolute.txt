@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec4\even2\bin\Debug\netcoreapp3.1\even2.exe
+C:\dev\softuni c#\lec4\even2\bin\Debug\netcoreapp3.1\even2.deps.json
+C:\dev\softuni c#\lec4\even2\bin\Debug\netcoreapp3.1\even2.runtimeconfig.json
+C:\dev\softuni c#\lec4\even2\bin\Debug\netcoreapp3.1\even2.runtimeconfig.dev.json
+C:\dev\softuni c#\lec4\even2\bin\Debug\netcoreapp3.1\even2.dll
+C:\dev\softuni c#\lec4\even2\bin\Debug\netcoreapp3.1\even2.pdb
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.AssemblyInfo.cs
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.dll
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.pdb
+C:\dev\softuni c#\lec4\even2\obj\Debug\netcoreapp3.1\even2.genruntimeconfig.cache

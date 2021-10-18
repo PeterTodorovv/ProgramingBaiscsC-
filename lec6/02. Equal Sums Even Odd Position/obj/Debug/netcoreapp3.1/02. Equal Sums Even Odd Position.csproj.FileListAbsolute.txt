@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.exe
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.deps.json
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+C:\dev\softuni c#\lec6\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.genruntimeconfig.cache

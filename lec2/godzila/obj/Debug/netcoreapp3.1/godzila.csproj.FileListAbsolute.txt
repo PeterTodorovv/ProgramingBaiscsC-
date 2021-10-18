@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec2\godzila\bin\Debug\netcoreapp3.1\godzila.exe
+C:\dev\softuni c#\lec2\godzila\bin\Debug\netcoreapp3.1\godzila.deps.json
+C:\dev\softuni c#\lec2\godzila\bin\Debug\netcoreapp3.1\godzila.runtimeconfig.json
+C:\dev\softuni c#\lec2\godzila\bin\Debug\netcoreapp3.1\godzila.runtimeconfig.dev.json
+C:\dev\softuni c#\lec2\godzila\bin\Debug\netcoreapp3.1\godzila.dll
+C:\dev\softuni c#\lec2\godzila\bin\Debug\netcoreapp3.1\godzila.pdb
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.AssemblyInfo.cs
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.dll
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.pdb
+C:\dev\softuni c#\lec2\godzila\obj\Debug\netcoreapp3.1\godzila.genruntimeconfig.cache

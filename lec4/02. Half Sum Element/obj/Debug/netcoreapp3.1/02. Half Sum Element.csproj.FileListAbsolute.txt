@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec4\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.exe
+C:\dev\softuni c#\lec4\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.deps.json
+C:\dev\softuni c#\lec4\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.json
+C:\dev\softuni c#\lec4\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.dev.json
+C:\dev\softuni c#\lec4\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.dll
+C:\dev\softuni c#\lec4\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfo.cs
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.dll
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+C:\dev\softuni c#\lec4\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.genruntimeconfig.cache

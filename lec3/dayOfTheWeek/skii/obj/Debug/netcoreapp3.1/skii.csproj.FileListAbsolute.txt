@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\bin\Debug\netcoreapp3.1\skii.exe
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\bin\Debug\netcoreapp3.1\skii.deps.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\bin\Debug\netcoreapp3.1\skii.runtimeconfig.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\bin\Debug\netcoreapp3.1\skii.runtimeconfig.dev.json
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\bin\Debug\netcoreapp3.1\skii.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\bin\Debug\netcoreapp3.1\skii.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\obj\Debug\netcoreapp3.1\skii.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\obj\Debug\netcoreapp3.1\skii.AssemblyInfo.cs
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\obj\Debug\netcoreapp3.1\skii.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\obj\Debug\netcoreapp3.1\skii.dll
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\obj\Debug\netcoreapp3.1\skii.pdb
+C:\dev\softuni c#\lec3\dayOfTheWeek\skii\obj\Debug\netcoreapp3.1\skii.genruntimeconfig.cache

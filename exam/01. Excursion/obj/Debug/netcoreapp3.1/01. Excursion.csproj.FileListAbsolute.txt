@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\exam\01. Excursion\bin\Debug\netcoreapp3.1\01. Excursion.exe
+C:\Users\peter\source\repos\exam\01. Excursion\bin\Debug\netcoreapp3.1\01. Excursion.deps.json
+C:\Users\peter\source\repos\exam\01. Excursion\bin\Debug\netcoreapp3.1\01. Excursion.runtimeconfig.json
+C:\Users\peter\source\repos\exam\01. Excursion\bin\Debug\netcoreapp3.1\01. Excursion.runtimeconfig.dev.json
+C:\Users\peter\source\repos\exam\01. Excursion\bin\Debug\netcoreapp3.1\01. Excursion.dll
+C:\Users\peter\source\repos\exam\01. Excursion\bin\Debug\netcoreapp3.1\01. Excursion.pdb
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.AssemblyInfo.cs
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.dll
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.pdb
+C:\Users\peter\source\repos\exam\01. Excursion\obj\Debug\netcoreapp3.1\01. Excursion.genruntimeconfig.cache

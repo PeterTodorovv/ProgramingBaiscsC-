@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec2\swimmingRecord\bin\Debug\netcoreapp3.1\swimmingRecord.exe
+C:\dev\softuni c#\lec2\swimmingRecord\bin\Debug\netcoreapp3.1\swimmingRecord.deps.json
+C:\dev\softuni c#\lec2\swimmingRecord\bin\Debug\netcoreapp3.1\swimmingRecord.runtimeconfig.json
+C:\dev\softuni c#\lec2\swimmingRecord\bin\Debug\netcoreapp3.1\swimmingRecord.runtimeconfig.dev.json
+C:\dev\softuni c#\lec2\swimmingRecord\bin\Debug\netcoreapp3.1\swimmingRecord.dll
+C:\dev\softuni c#\lec2\swimmingRecord\bin\Debug\netcoreapp3.1\swimmingRecord.pdb
+C:\dev\softuni c#\lec2\swimmingRecord\obj\Debug\netcoreapp3.1\swimmingRecord.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec2\swimmingRecord\obj\Debug\netcoreapp3.1\swimmingRecord.AssemblyInfo.cs
+C:\dev\softuni c#\lec2\swimmingRecord\obj\Debug\netcoreapp3.1\swimmingRecord.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec2\swimmingRecord\obj\Debug\netcoreapp3.1\swimmingRecord.dll
+C:\dev\softuni c#\lec2\swimmingRecord\obj\Debug\netcoreapp3.1\swimmingRecord.pdb
+C:\dev\softuni c#\lec2\swimmingRecord\obj\Debug\netcoreapp3.1\swimmingRecord.genruntimeconfig.cache

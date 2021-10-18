@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.exe
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.deps.json
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.json
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+C:\dev\softuni c#\lec6\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.genruntimeconfig.cache

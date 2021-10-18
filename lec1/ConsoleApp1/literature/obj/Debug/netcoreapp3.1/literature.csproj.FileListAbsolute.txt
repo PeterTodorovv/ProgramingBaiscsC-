@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\bin\Debug\netcoreapp3.1\literature.exe
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\bin\Debug\netcoreapp3.1\literature.deps.json
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\bin\Debug\netcoreapp3.1\literature.runtimeconfig.json
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\bin\Debug\netcoreapp3.1\literature.runtimeconfig.dev.json
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\bin\Debug\netcoreapp3.1\literature.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\bin\Debug\netcoreapp3.1\literature.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\obj\Debug\netcoreapp3.1\literature.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\obj\Debug\netcoreapp3.1\literature.AssemblyInfo.cs
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\obj\Debug\netcoreapp3.1\literature.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\obj\Debug\netcoreapp3.1\literature.dll
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\obj\Debug\netcoreapp3.1\literature.pdb
+C:\dev\softuni c#\lec1\ConsoleApp1\literature\obj\Debug\netcoreapp3.1\literature.genruntimeconfig.cache

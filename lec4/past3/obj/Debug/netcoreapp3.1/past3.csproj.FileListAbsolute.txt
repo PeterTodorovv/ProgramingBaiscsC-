@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec4\past3\bin\Debug\netcoreapp3.1\past3.exe
+C:\dev\softuni c#\lec4\past3\bin\Debug\netcoreapp3.1\past3.deps.json
+C:\dev\softuni c#\lec4\past3\bin\Debug\netcoreapp3.1\past3.runtimeconfig.json
+C:\dev\softuni c#\lec4\past3\bin\Debug\netcoreapp3.1\past3.runtimeconfig.dev.json
+C:\dev\softuni c#\lec4\past3\bin\Debug\netcoreapp3.1\past3.dll
+C:\dev\softuni c#\lec4\past3\bin\Debug\netcoreapp3.1\past3.pdb
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.AssemblyInfo.cs
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.dll
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.pdb
+C:\dev\softuni c#\lec4\past3\obj\Debug\netcoreapp3.1\past3.genruntimeconfig.cache

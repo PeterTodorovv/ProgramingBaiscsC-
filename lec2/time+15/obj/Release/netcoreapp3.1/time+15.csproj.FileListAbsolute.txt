@@ -1,0 +1,12 @@
+C:\dev\softuni c#\lec2\time+15\bin\Release\netcoreapp3.1\time+15.exe
+C:\dev\softuni c#\lec2\time+15\bin\Release\netcoreapp3.1\time+15.deps.json
+C:\dev\softuni c#\lec2\time+15\bin\Release\netcoreapp3.1\time+15.runtimeconfig.json
+C:\dev\softuni c#\lec2\time+15\bin\Release\netcoreapp3.1\time+15.runtimeconfig.dev.json
+C:\dev\softuni c#\lec2\time+15\bin\Release\netcoreapp3.1\time+15.dll
+C:\dev\softuni c#\lec2\time+15\bin\Release\netcoreapp3.1\time+15.pdb
+C:\dev\softuni c#\lec2\time+15\obj\Release\netcoreapp3.1\time+15.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec2\time+15\obj\Release\netcoreapp3.1\time+15.AssemblyInfo.cs
+C:\dev\softuni c#\lec2\time+15\obj\Release\netcoreapp3.1\time+15.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec2\time+15\obj\Release\netcoreapp3.1\time+15.dll
+C:\dev\softuni c#\lec2\time+15\obj\Release\netcoreapp3.1\time+15.pdb
+C:\dev\softuni c#\lec2\time+15\obj\Release\netcoreapp3.1\time+15.genruntimeconfig.cache

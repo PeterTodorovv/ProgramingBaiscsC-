@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec4\symbols\bin\Debug\netcoreapp3.1\symbols.exe
+C:\dev\softuni c#\lec4\symbols\bin\Debug\netcoreapp3.1\symbols.deps.json
+C:\dev\softuni c#\lec4\symbols\bin\Debug\netcoreapp3.1\symbols.runtimeconfig.json
+C:\dev\softuni c#\lec4\symbols\bin\Debug\netcoreapp3.1\symbols.runtimeconfig.dev.json
+C:\dev\softuni c#\lec4\symbols\bin\Debug\netcoreapp3.1\symbols.dll
+C:\dev\softuni c#\lec4\symbols\bin\Debug\netcoreapp3.1\symbols.pdb
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.AssemblyInfo.cs
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.dll
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.pdb
+C:\dev\softuni c#\lec4\symbols\obj\Debug\netcoreapp3.1\symbols.genruntimeconfig.cache

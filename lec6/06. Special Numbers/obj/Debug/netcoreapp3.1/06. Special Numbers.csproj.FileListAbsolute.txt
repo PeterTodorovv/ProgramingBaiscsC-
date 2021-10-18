@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec6\06. Special Numbers\bin\Debug\netcoreapp3.1\06. Special Numbers.exe
+C:\dev\softuni c#\lec6\06. Special Numbers\bin\Debug\netcoreapp3.1\06. Special Numbers.deps.json
+C:\dev\softuni c#\lec6\06. Special Numbers\bin\Debug\netcoreapp3.1\06. Special Numbers.runtimeconfig.json
+C:\dev\softuni c#\lec6\06. Special Numbers\bin\Debug\netcoreapp3.1\06. Special Numbers.runtimeconfig.dev.json
+C:\dev\softuni c#\lec6\06. Special Numbers\bin\Debug\netcoreapp3.1\06. Special Numbers.dll
+C:\dev\softuni c#\lec6\06. Special Numbers\bin\Debug\netcoreapp3.1\06. Special Numbers.pdb
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.csproj.AssemblyReference.cache
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.AssemblyInfo.cs
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.dll
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.pdb
+C:\dev\softuni c#\lec6\06. Special Numbers\obj\Debug\netcoreapp3.1\06. Special Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\softuni c#\lec5\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.exe
+C:\dev\softuni c#\lec5\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.deps.json
+C:\dev\softuni c#\lec5\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.json
+C:\dev\softuni c#\lec5\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.runtimeconfig.dev.json
+C:\dev\softuni c#\lec5\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.dll
+C:\dev\softuni c#\lec5\02. Exam Preparation\bin\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.AssemblyInfo.cs
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.dll
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.pdb
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.genruntimeconfig.cache
+C:\dev\softuni c#\lec5\02. Exam Preparation\obj\Debug\netcoreapp3.1\02. Exam Preparation.csproj.AssemblyReference.cache
